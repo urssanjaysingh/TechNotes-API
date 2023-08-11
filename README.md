@@ -1,35 +1,30 @@
-# TechNotes-API
+# TechNotes Backend
 
-A backend API for managing tech-related notes.
+Welcome to the techNotes backend repository! This is the backend component of the techNotes project, designed to provide the necessary API and functionalities to support the note management system.
 
-Getting Started
+## Table of Contents
+- [Introduction](#introduction)
+- [Technologies](#technologies)
+- [API Documentation](#api-documentation)
+- [Live Backend URL](#live-backend-url)
 
-Prerequisites:
+## Introduction
 
-- Node.js: Make sure you have Node.js installed. You can download it from nodejs.org.
+The techNotes backend serves as the backbone of the note management system, providing APIs for user authentication, note management, and more.
 
-Installing:
+## Technologies
 
-1. Clone the repository:
-   git clone https://github.com/urssanjaysingh/TechNotes-API.git
+The techNotes backend is built using the following technologies:
+- **Node.js** for server-side scripting.
+- **Express.js** for building the API endpoints.
+- **MongoDB** for database storage.
 
-2. Navigate to the project directory:
-   cd TechNotes-API
+## API Documentation
 
-3. Install dependencies:
-   npm install
+The API endpoints and their documentation can be found in the [API Documentation](API_DOCS.md) file.
 
-Usage:
+## Live Backend URL
 
-1. Start the server:
-   node server.js
+Check out the live backend of the project: [![Live Backend](https://img.shields.io/badge/-Live%20Backend-brightgreen?style=for-the-badge)](https://technotes-api-vbrs.onrender.com/)
 
-Contributing:
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: git checkout -b feature/your-feature-name.
-3. Make changes and commit them: git commit -am 'Add some feature'.
-4. Push the branch: git push origin feature/your-feature-name.
-5. Open a pull request.
+Click the button above to access the live backend URL.
