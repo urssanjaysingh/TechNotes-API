@@ -33,7 +33,3 @@ Contributions are welcome! Please follow these steps:
 3. Make changes and commit them: git commit -am 'Add some feature'.
 4. Push the branch: git push origin feature/your-feature-name.
 5. Open a pull request.
-
-License:
-
-This project is licensed under the MIT License. See the LICENSE file for details.
