@@ -1,6 +1,7 @@
 # TechNotes Backend
 
 Welcome to the techNotes backend repository! This is the backend component of the techNotes project, designed to provide the necessary API and functionalities to support the note management system.
+[![Live Backend](https://img.shields.io/badge/-Live%20Backend-brightgreen?style=for-the-badge)](https://technotes-api-vbrs.onrender.com/)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -25,6 +26,6 @@ The API endpoints and their documentation can be found in the [API Documentation
 
 ## Live Backend URL
 
-Check out the live backend of the project: [![Live Backend](https://img.shields.io/badge/-Live%20Backend-brightgreen?style=for-the-badge)](https://technotes-api-vbrs.onrender.com/)
+[![Live Backend](https://img.shields.io/badge/-Live%20Backend-brightgreen?style=for-the-badge)](https://technotes-api-vbrs.onrender.com/)
 
 Click the button above to access the live backend URL.
